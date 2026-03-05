@@ -16,7 +16,6 @@ Below is an example of the application workflow:
 
 ![Demo](demo.gif)
 
-*(Record this GIF showing: opening the webpage → uploading an image → viewing the uploaded image.)*
 
 ---
 

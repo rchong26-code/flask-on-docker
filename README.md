@@ -1,6 +1,5 @@
 # Flask on Docker
 
-![CI](https://github.com/YOUR_USERNAME/flask-on-docker/actions/workflows/main.yml/badge.svg)
 
 ## Overview
 
